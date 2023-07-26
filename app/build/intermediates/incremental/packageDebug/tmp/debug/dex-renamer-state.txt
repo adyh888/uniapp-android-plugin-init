@@ -1,0 +1,4 @@
+#Wed Jul 26 11:32:22 CST 2023
+base.0=/Users/liqian/Desktop/同步空间/demo15/android-uniapp-demo3/Android-SDK@3.8.7.81902_20230704/UniPlugin-Hello-AS/app/build/intermediates/dex/debug/minifyDebugWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
